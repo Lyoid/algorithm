@@ -1,0 +1,3 @@
+﻿  slm.cpp
+d:\file\test\short_line_merge\short_line_merge\slm.cpp(359): warning C4101: “result”: 未引用的局部变量
+  short_line_merge.vcxproj -> D:\FILE\test\short_line_merge\x64\Debug\short_line_merge.exe

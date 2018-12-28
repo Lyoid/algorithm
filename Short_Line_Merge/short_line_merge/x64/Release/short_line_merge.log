@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\file\test\short_line_merge\short_line_merge\main.cpp(135): warning C4091: “”: 没有声明变量时忽略“void”的左侧
+d:\file\test\short_line_merge\short_line_merge\main.cpp(171): warning C4101: “i”: 未引用的局部变量
+  slm.cpp
+d:\file\test\short_line_merge\short_line_merge\slm.cpp(360): warning C4101: “result”: 未引用的局部变量
+  stdafx.cpp
+  正在生成代码
+  116 of 240 functions (48.3%) were compiled, the rest were copied from previous compilation.
+    101 functions were new in current compilation
+    13 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  short_line_merge.vcxproj -> D:\FILE\test\short_line_merge\x64\Release\short_line_merge.exe
